@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science Under-Grad @ IIT Gandhinagar
+subtitle: Computer Science Under-Grad @ [IIT Gandhinagar](https://iitgn.ac.in)
 
 profile:
   align: right
